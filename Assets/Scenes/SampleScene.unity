@@ -690,6 +690,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: controlSpeed
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
       propertyPath: movement.m_Name
       value: Movement
       objectReference: {fileID: 0}
