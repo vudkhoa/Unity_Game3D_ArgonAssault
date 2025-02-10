@@ -689,6 +689,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: xRange
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: controlRollFactor
+      value: -40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: positionYawFactor
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: controlPitchFactor
+      value: -30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: positionPitchFactor
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 5856111382419023100, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
       propertyPath: m_Name
       value: Player Ship
