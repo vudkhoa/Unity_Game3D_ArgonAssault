@@ -16,8 +16,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Update is called once per frame
 
     [SerializeField] float controlSpeed = 30f;
-    [SerializeField] float xRange = 5f;
-    [SerializeField] float yRange = 5f;
+    [SerializeField] float xRange = 4f;
+    [SerializeField] float yRange = 4f;
 
     // Đặt âm dương vì chiều trong tọa độ. 
     // là một hệ số tự đặt để điều chỉnh mức độ ảnh hưởng của vị trí y (transform.localPosition.y) đến pitch (góc nghiêng).
