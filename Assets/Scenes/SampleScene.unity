@@ -689,29 +689,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
-      propertyPath: xRange
-      value: 4
+    - target: {fileID: 1217006007586122317, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
-      propertyPath: yRange
-      value: 4
+    - target: {fileID: 1217006007586122317, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.05270496
       objectReference: {fileID: 0}
-    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
-      propertyPath: controlRollFactor
-      value: -40
+    - target: {fileID: 1217006007586122317, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
-      propertyPath: positionYawFactor
-      value: 4
+    - target: {fileID: 1414667748136224679, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 1414667748136224679, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 4372850820302292214, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 4372850820302292214, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 4606400603195156764, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
-      propertyPath: controlPitchFactor
-      value: -30
+    - target: {fileID: 4606400603195156764, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.05270496
       objectReference: {fileID: 0}
-    - target: {fileID: 5409018659336780331, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
-      propertyPath: positionPitchFactor
-      value: -1
+    - target: {fileID: 4606400603195156764, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5856111382419023100, guid: e264cfd20df1a1f49baac4ad2043ab47, type: 3}
       propertyPath: m_Name

@@ -31,8 +31,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     float xThrow, yThrow;
     // rawPos: vị trí thô.
      
-    void Update()
-    {
+    void Update() {
         ProcessTranslation();
         ProcessRotation(); 
     }
